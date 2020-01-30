@@ -1820,7 +1820,7 @@ html{
     color:#998
 }
 .highlight .err{
-    color:#a61717;
+    color:#428AB0;
     background-color:#e3d2d2
 }
 .highlight .cm{
@@ -1844,7 +1844,7 @@ html{
     background-color:#faa
 }
 .highlight .gr{
-    color:#a00
+    color:#428AB0
 }
 .highlight .gh{
     color:#999
@@ -1867,7 +1867,7 @@ html{
     color:#aaa
 }
 .highlight .gt{
-    color:#a00
+    color:#428AB0
 }
 .highlight .kt{
     color:#458
@@ -1876,7 +1876,7 @@ html{
     color:#099
 }
 .highlight .s{
-    color:#d14
+    color:#428AB0
 }
 .highlight .na{
     color:teal
@@ -1894,7 +1894,7 @@ html{
     color:purple
 }
 .highlight .ne,.highlight .nf{
-    color:#900;
+    color:#428AB0;
     font-weight:700
 }
 .highlight .nn{
@@ -1913,7 +1913,7 @@ html{
     color:#099
 }
 .highlight .s2,.highlight .sb,.highlight .sc,.highlight .sd,.highlight .se,.highlight .sh,.highlight .si,.highlight .sx{
-    color:#d14
+    color:#428AB0
 }
 .highlight .sr{
     color:#009926
@@ -2006,14 +2006,14 @@ h5{
 }
 ::-moz-selection{
     color:#fff;
-    background:#a51a1a
+    background:#428AB0
 }
 ::selection{
     color:#fff;
-    background:#a51a1a
+    background:#428AB0
 }
 .red,a{
-    color:#BB1E1E
+    color:#428AB0
 }
 a{
     text-decoration:none
@@ -2050,9 +2050,6 @@ hr{
 }
 .gray{
     color:#999
-}
-.red{
-    color:#bb1e1e
 }
 .nocolor,a.nocolor,.nostyle{
     text-decoration:inherit;
@@ -2163,7 +2160,7 @@ hr{
 }
 .fast h3{
     margin:6% 3%;
-    text-shadow:-1px -1px #aa3030;
+    text-shadow:-1px -1px #428AB0;
     transition:opacity .3s ease;
     background-size:30px 30px;
     background-image:linear-gradient(45deg,rgba(0,0,0,.1) 25%,transparent 25%,transparent 50%,rgba(0,0,0,.1) 50%,rgba(0,0,0,.1) 75%,transparent 75%,transparent);
@@ -2266,8 +2263,8 @@ blockquote{
     margin-right:.2em
 }
 .button.button-red{
-    background-color:#af2222;
-    border:1px solid #9a1e1e;
+    background-color:#428AB0;
+    border:1px solid #428AA0;
     color:#fff;
     padding:.7em 1.2em;
     font-weight:400;
@@ -2902,7 +2899,7 @@ html:not(.platform-mac) .site-sidebar .block-blog{
     color:inherit
 }
 .portfolio-timeline .project-link:hover{
-    color:#BB1E1E
+    color:#428AB0
 }
 .portfolio-timeline .project-text{
     width:50%;
@@ -3059,7 +3056,7 @@ html:not(.platform-mac) .site-sidebar .block-blog{
     }
 }
 .feature{
-    color:#BB1E1E;
+    color:#428AB0;
     font-weight:300;
     text-align:center;
     padding:0 10px
@@ -3087,7 +3084,7 @@ html:not(.platform-mac) .site-sidebar .block-blog{
     font-size:36px;
     line-height:1;
     margin-bottom:10px;
-    color:#BB1E1E;
+    color:#428AB0;
     text-transform:none
 }
 .post .post-meta{
@@ -3110,7 +3107,7 @@ html:not(.platform-mac) .site-sidebar .block-blog{
     font-style:italic
 }
 .post .comment-link{
-    color:#BB1E1E
+    color:#428AB0
 }
 .timeline.talks-timeline .talk-title{
     margin-top:-.25em
@@ -3188,7 +3185,7 @@ body.cv{
     font-size:30px;
     line-height:1;
     margin-bottom:5px;
-    color:#BB1E1E
+    color:#428AB0
 }
 .cv-header-subname{
     display:block;
@@ -3244,7 +3241,7 @@ body.cv{
     margin-top:1.5em
 }
 .cv-section-title{
-    color:#BB1E1E;
+    color:#428AB0;
     font-size:24px;
     font-weight:300;
     padding-left:21.5%;
