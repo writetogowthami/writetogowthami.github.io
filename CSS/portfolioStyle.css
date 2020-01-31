@@ -2149,7 +2149,7 @@ hr{
 }
 .fast{
     background:#69536e;
-    color:#fff;
+    color:#fbeee6;
     font-weight:400;
     line-height:1.3em;
     border-radius:20px;
@@ -2159,7 +2159,7 @@ hr{
 }
 .fast h3{
     margin:6% 3%;
-    text-shadow:-1px -1px #428AB0;
+    /*text-shadow:-1px -1px #428AB0;*/
     transition:opacity .3s ease;
     background-size:30px 30px;
     background-image:linear-gradient(45deg,rgba(0,0,0,.1) 25%,transparent 25%,transparent 50%,rgba(0,0,0,.1) 50%,rgba(0,0,0,.1) 75%,transparent 75%,transparent);
