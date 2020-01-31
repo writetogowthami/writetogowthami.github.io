@@ -2143,7 +2143,7 @@ hr{
     margin:15% 10% 20%
 }
 .site-main{
-    color:#008073;
+    color:#4A707A;
     margin: 0 1%;
     padding: 0 0 0 2%;
 }
@@ -2555,6 +2555,9 @@ html:not(.platform-mac) .site-sidebar .block-blog{
     }
     .main-navigation.extended .navigation-extendable{
         height:300px
+    }
+    .navigation-extendable{
+        font-weight: 400;
     }
     .main-navigation .current a:after,.main-navigation a:hover:after{
         content:" \f105 ";
