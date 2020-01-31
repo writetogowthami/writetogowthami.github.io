@@ -2143,18 +2143,17 @@ hr{
     margin:15% 10% 20%
 }
 .site-main{
-    color:#4A707A;
+    color:#6E5773;
     margin: 0 1%;
     padding: 0 0 0 2%;
 }
 .fast{
-    background:#6ab1c9;
+    background:#69536e;
     color:#fff;
     font-weight:400;
     line-height:1.3em;
-    border:2px dashed #fff;
     border-radius:10px;
-    box-shadow:0 0 0 4px #6ab1c9,2px 1px 6px 4px rgba(10,10,0,.5);
+    box-shadow:0 0 0 4px #695373,2px 1px 6px 4px rgba(10,10,0,.5);
     margin:5%;
     padding:0 0 5%
 }
@@ -2302,8 +2301,8 @@ body{
     font-size:14px;
     color:#fff;
     text-align:left;
-    background-color:#428AB0; /* Fallback color*/
-    background-color:rgba(66,138,176,.8);
+    background-color:#6E5773; /* Fallback color*/
+    background-color:rgba(110,87,115,.8);
     overflow: hidden
 }
 @media (max-width:567px){
