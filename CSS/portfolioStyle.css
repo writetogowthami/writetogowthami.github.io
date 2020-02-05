@@ -2167,6 +2167,12 @@ body{
     .navigation-extend-bar div.social-icons+a i{
         vertical-align: middle;
     }
+    .mainContainer{
+        z-index:2;
+        color:#fff;
+        background-color:#6E5773; /* Fallback color*/
+        background-color:rgba(110,87,115,.8) !important;
+    }
 }
 .site-sidebar{
     top:0;
