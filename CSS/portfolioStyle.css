@@ -2840,9 +2840,9 @@ html:not(.platform-mac) .site-sidebar .block-blog{
     margin-bottom:1em
 }
 .home-section .home-buttons a.button{
-    color: #6E5773;
+    color: #6E571E;
     background: -webkit-gradient(linear,left top,right top,from(#808c97),to(#a76B56));
-    background: linear-gradient(90deg,#808c97,#a76B56);
+    background: linear-gradient(90deg,#765D69,#808c97,#a76B56);
     /*border: 1px solid rgba(110,87,115,.8);
     box-shadow: 1px 1px 2px rgba(110,87,115,.8);*/
     border:0;
